@@ -4,7 +4,7 @@ import plotly.express as px
 from datetime import datetime
 
 # URL RAW de tu CSV en GitHub
-URL_CSV = "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/data/actividades.csv"
+URL_CSV = "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/data/Actividades.csv"
 
 @st.cache_data(ttl=3600)
 def cargar_datos():
