@@ -9,7 +9,7 @@ URL_CSV = "https://raw.githubusercontent.com/Santiagoherrella/ReduccioncostosPM/
 
 
 
-@st.cache_data(ttl=3600)
+
 def cargar_datos():
     df = pd.read_csv(URL_CSV)
     if "FechaProgramada" in df.columns:
