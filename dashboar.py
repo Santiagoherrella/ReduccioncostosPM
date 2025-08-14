@@ -1,3 +1,4 @@
+# streamlit run dashboar.py
 import pandas as pd
 import streamlit as st
 import plotly.express as px
@@ -14,8 +15,11 @@ df = cargar_datos()
 
 st.set_page_config(page_title="Dashboard DMAIC", layout="wide")
 st.title("📊 Dashboard Seguimiento Proyecto DMAIC")
+print(df.head())
 
+"""
 # ===================== KPIs Generales =====================
+
 total = len(df)
 completadas = len(df[df["Estado"].str.lower() == "completado"])
 avance_global = round((completadas / total) * 100, 2)
@@ -63,3 +67,4 @@ if estado_sel != "Todos":
     df_filtrado = df_filtrado[df_filtrado["Estado"] == estado_sel]
 
 st.dataframe(df_filtrado)
+"""
