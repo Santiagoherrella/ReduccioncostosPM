@@ -17,7 +17,7 @@ st.set_page_config(page_title="Dashboard DMAIC", layout="wide")
 st.title("📊 Dashboard Seguimiento Proyecto DMAIC")
 print(df.head())
 
-"""
+
 # ===================== KPIs Generales =====================
 
 total = len(df)
@@ -67,4 +67,3 @@ if estado_sel != "Todos":
     df_filtrado = df_filtrado[df_filtrado["Estado"] == estado_sel]
 
 st.dataframe(df_filtrado)
-"""
