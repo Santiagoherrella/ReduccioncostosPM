@@ -6,18 +6,8 @@ from datetime import datetime
 # URL RAW de tu CSV en GitHub
 URL_CSV = "https://raw.githubusercontent.com/Santiagoherrella/ReduccioncostosPM/refs/heads/main/Actividades.csv"
 
-
-
-
-
 def cargar_datos():
     df = pd.read_csv(URL_CSV)
-    if "FechaProgramada" in df.columns:
-        df["FechaProgramada"] = pd.to_datetime(df["FechaProgramada"], errors="coerce")
-        # 1️⃣ Eliminar columnas que no quieres mostrar (sin cambiar el archivo)
-        # Lista de columnas a eliminar
-        columnas_a_eliminar = ["@odata.etag", "ItemInternalId"]
-        df = df.drop(columns=columnas_a_eliminar, errors='ignore')
     return df
 
 df = cargar_datos()
