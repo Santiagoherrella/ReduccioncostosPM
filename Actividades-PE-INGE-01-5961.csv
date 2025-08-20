@@ -1,0 +1,73 @@
+<<<<<<< HEAD
+@odata.etag,ItemInternalId,Fase,Tipo,Actividad,Responsable,Estado,Porcetaje,Cronograma,Correo responsable
+,9cdcce70-5bb0-40ff-9018-4ebae9a7f203,Definicion,Entregable,Grafica Goal vs Actual,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,e0c076bd-637f-4153-b18b-e894c6048a22,Definicion,Entregable,Analisis estadistico linea base,Santiago Herrera,En proceso,0.45,A tiempo,santiagoherrera@magnetron.com.co
+,745ee1eb-b1ee-4316-82be-850c56431717,Definicion,Entregable,Paretos,Sebastian Robledo,Finalizado,1,A tiempo,sebastianrobledo@magnetron.com.co
+,738073d6-643c-4146-a180-c74bfb8d14cc,Definicion,Entregable,Matriz RACI,Santiago Herrera,Finalizado,1,A tiempo,santiagoherrera@magnetron.com.co
+,2633eb15-d717-41e2-b7cf-bdce96fcf0b4,Definicion,Entregable,Hallazgos,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,1d889188-21d2-448c-b784-f97669401efe,Definicion,Entregable,Kickoff del Equipo,Santiago Herrera,Finalizado,1,A tiempo,santiagoherrera@magnetron.com.co
+,c71f099f-51c6-47ce-a6c9-64d5dd91335a,Definicion,Entregable,Project Charter,Santiago Herrera,En proceso,0.9,A tiempo,santiagoherrera@magnetron.com.co
+,51f5f7f9-64cc-43c0-85a6-96cec93083a9,Definicion,Entregable,Plan de Comunicacion,Santiago Herrera,Finalizado,1,A tiempo,santiagoherrera@magnetron.com.co
+,bf934e0c-3817-42f0-a776-2cc9b50bb109,Medicion,Entregable,Plan de Recopilación de Datos​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,903c273d-e1aa-48ec-8ef1-88e16e519452,Medicion,Entregable,Voc/VoB​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,cb11516e-014e-4f72-88d9-9e86799464b4,Medicion,Entregable,VSM​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,8b9da2f9-d17b-45d7-a6c8-56c1c47011ca,Medicion,Entregable,SIPOC​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,bb6177bc-30ff-4e73-80ec-7c5954112713,Medicion,Entregable,Tabla Resumen de variables X´s​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,a5aa9ddc-0c17-4cec-9e2e-6dbf03479f1c,Medicion,Entregable,Análisis de Capacidad​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,9a61d4bc-9ad2-4e51-ad7d-601970fbb289,Medicion,Entregable,MDF (matriz despliegue de funciones)​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,368504b4-fd8f-48a4-8397-3f996c9a462c,Medicion,Entregable,Mejoras Rapidas​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,b4a27183-ca17-4e6e-a636-c9b658a22e2f,Medicion,Entregable,Hallazgos​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,1caddb29-8bd5-4865-a568-530d7467a21d,Analizar,Entregable,FMEA​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,4f610a94-cfd4-4353-8f34-3bd56c9ccbcf,Analizar,Entregable,Hallazgos​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,b8ffc63f-c881-4753-9004-7176b955b292,Implementar,Entregable,Desarrollar soluciones​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,d8a93b0c-bec0-4bf7-a898-f989cd050fac,Implementar,Entregable,Eventos Kaizen ejecutados​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,115744a7-6f8f-49c2-8b70-b213aca72e94,Implementar,Entregable,Pruebas Piloto​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,ba6a338f-b98e-4c91-a158-06d0c7880670,Implementar,Entregable,DOE 2K​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,91160c0b-547b-4952-93ad-0e1c42282984,Implementar,Entregable,Matriz de Responsabilidades​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,0591ae3d-edcd-42a1-8a24-e9906ad449b2,Implementar,Entregable,DocumEntacion del Antes y Depues (Fotos)​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,7b16cc0d-e8d4-406e-acfe-788ec412929c,Implementar,Entregable,Ejecución del Plan​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,099b8fb7-4e51-4e67-9bdd-d63ae18897a6,Controlar,Entregable,Control Chart​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,160ec39c-84df-4853-8065-37f641354501,Controlar,Entregable,Listado Acciones Ejecutadas​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,02c9115a-d125-49f3-956e-151ad5b10e68,Controlar,Entregable,FMEA actualizado​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,ea58134d-bf22-4378-9fa5-295db3974b3e,Controlar,Entregable,Plan de Control​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,48e00d5a-7364-4118-a822-7ed1148464d5,Controlar,Entregable,Capacitación Plan de ejecucion​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,fe3c4c8f-6031-4a68-ba01-bc4ae9910f16,Controlar,Entregable,Medición Impacto Financiero​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,1988367d-a04f-4cdd-a6f1-b821a9eb4b77,Controlar,Entregable,Grafico ImR antes y despues​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,0fcc6013-c993-4050-a881-ef5c739ffcbb,Controlar,Entregable,Informe de cierre​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+=======
+@odata.etag,ItemInternalId,Fase,Tipo,Actividad,Responsable,Estado,Porcetaje,Cronograma,Correo responsable
+,291b15ff-7c90-4e2d-ac25-9266c36d5f84,Definicion,Entregable,Grafica Goal vs Actual,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,38e41f8c-1cd2-444a-a1c0-92a81c26a458,Definicion,Entregable,Analisis estadistico linea base,Santiago Herrera,En proceso,0.45,A tiempo,santiagoherrera@magnetron.com.co
+,df69e5e0-acb3-43fe-b5a1-a960b2ed4e2e,Definicion,Entregable,Paretos,Sebastian Robledo,Finalizado,1,A tiempo,sebastianrobledo@magnetron.com.co
+,3987a56d-1561-45a4-8214-873348222fb3,Definicion,Entregable,Matriz RACI,Santiago Herrera,Finalizado,1,A tiempo,santiagoherrera@magnetron.com.co
+,58f36ef6-816d-4049-8a7c-e2bce0fe1969,Definicion,Entregable,Hallazgos,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,fade34b3-44b9-47d1-9202-5a31c20a9de4,Definicion,Entregable,Kickoff del Equipo,Santiago Herrera,Finalizado,1,A tiempo,santiagoherrera@magnetron.com.co
+,163c5845-13e0-4f10-b27e-45fd6e291d45,Definicion,Entregable,Project Charter,Santiago Herrera,En proceso,0.9,A tiempo,santiagoherrera@magnetron.com.co
+,21c94dc4-2f41-4b7e-b6b4-006cf6f6f782,Definicion,Entregable,Plan de Comunicacion,Santiago Herrera,Finalizado,1,A tiempo,santiagoherrera@magnetron.com.co
+,c5fe4455-ad90-4a20-aac8-ee9c1b3f2271,Medicion,Entregable,Plan de Recopilación de Datos​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,1307f102-2edb-4f59-8958-73a6dcb54f62,Medicion,Entregable,Voc/VoB​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,4ac599ef-3630-4378-bf20-dac85f8974bf,Medicion,Entregable,VSM​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,742f8550-c9fa-4cad-8560-cee1d5875f0e,Medicion,Entregable,SIPOC​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,7c4d5ae4-4992-42fb-8471-b25eb8027ef2,Medicion,Entregable,Tabla Resumen de variables X´s​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,aec77250-b0a6-4ed4-bbe0-a7c67c252f48,Medicion,Entregable,Análisis de Capacidad​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,2a3b29ef-ddf3-4751-8f21-f7516fe2da88,Medicion,Entregable,MDF (matriz despliegue de funciones)​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,b6507cec-d24d-4fd7-9dc6-62b227454f32,Medicion,Entregable,Mejoras Rapidas​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,27a34e65-63f7-47ec-90f2-a25c9a9ecb4a,Medicion,Entregable,Hallazgos​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,c45a001e-6448-4ed6-a035-273b02b6f488,Analizar,Entregable,FMEA​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,0381944e-3695-44ed-b453-fa9acc050981,Analizar,Entregable,Hallazgos​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,5f61ad75-0970-4e23-a99c-9885e8b04f3c,Implementar,Entregable,Desarrollar soluciones​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,23427bbd-c321-45b7-a7a1-97945a0dce16,Implementar,Entregable,Eventos Kaizen ejecutados​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,e29516c3-7b6c-4c40-801d-fbb0969448ae,Implementar,Entregable,Pruebas Piloto​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,5403148d-a3ce-4378-9292-3548ecc4fd1d,Implementar,Entregable,DOE 2K​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,b2314e60-3dd6-40fd-9aaa-204148539a0c,Implementar,Entregable,Matriz de Responsabilidades​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,b15aa69c-b3ba-46f7-b7d2-49ccb7e09ce4,Implementar,Entregable,DocumEntacion del Antes y Depues (Fotos)​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,066b4bd3-cc86-4e2b-a757-33c6831317d0,Implementar,Entregable,Ejecución del Plan​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,169ef1af-94cc-46ec-b9ef-868fe868ebc9,Controlar,Entregable,Control Chart​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,884ce0e1-a99d-4c7d-9668-e41ee85da2a7,Controlar,Entregable,Listado Acciones Ejecutadas​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,e4e4c899-4a15-417c-9b0a-3579acd3af24,Controlar,Entregable,FMEA actualizado​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,a38243b3-9d78-46a5-9808-7b10f68cde1a,Controlar,Entregable,Plan de Control​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,ea332e49-920e-49df-9619-c5e91bfd1a3b,Controlar,Entregable,Capacitación Plan de ejecucion​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,e5226a07-98fe-42ae-9cea-55c3aeb188e0,Controlar,Entregable,Medición Impacto Financiero​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,559f08fe-147e-4bde-bec4-8056eca72e16,Controlar,Entregable,Grafico ImR antes y despues​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+,9c918fd7-4209-4c91-b2fc-6ed2abca4237,Controlar,Entregable,Informe de cierre​,Santiago Herrera,Sin programar ,0,A tiempo,santiagoherrera@magnetron.com.co
+>>>>>>> dc0eb2479b4d040cce810e4aa56d41821ebc196f
